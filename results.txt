@@ -1,0 +1,2 @@
+MongoDB Data Retrieval Time: 1526 ms
+Redis Data Retrieval Time: 387 ms
